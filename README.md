@@ -4,7 +4,7 @@ Project I made for my best friend's 18th birthday! She loves puzzles & we have a
 
 Since you're not Medha, you don't get to read it. It's lowkey corny, so don't worry, you're not missing out on much- I've added a placeholder image & letter for the purpose of publicizing my code while maintaining privacy!
 
-However, a video demo of the real thing can be found on my personal portfolio!! (probably where you came from). Email me at laasyamanikonda [at] gmail [dot] com if you don't have access to my portfolio, and would like to see it!
+However, a video demo of the real thing can be found on my personal portfolio, laasya.me!! (probably where you came from)
 
 I had so much fun creating this, and it was unlike many other projects I've built before. 
 
